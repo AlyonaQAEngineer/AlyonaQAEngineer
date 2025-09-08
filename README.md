@@ -3,7 +3,7 @@
 ## Привет! Я - молодой специалист в области тестирования программного обеспечения. В тестировании я уже около двух лет: за это время освоила изучила такие виды тестирования как: функциональное, нефункциональное,регрессионное, smoke, интеграционное, системное, sanity, UI/UX, тестирование API. Я умею работать с баг-трекинговыми системами (например, Jira), создавать понятные чек-листы и грамотно оформлять баг-репорты.
 
 ### Languages and tools
-![DevTools](https://shields.fly.dev/badge/-DevTools-FFCC99?style=for-the-badge&logo=DevTools&logoColor=8bb4dd)<disabled>
+![DevTools](https://shields.fly.dev/badge/-DevTools-FFCC99?style=for-the-badge&logo=DevTools&logoColor=8bb4dd)
 ![Postman](https://shields.fly.dev/badge/-Postman-FFCC99?style=for-the-badge&logo=Postman)
 ![DBeaver](https://shields.fly.dev/badge/-DBeaver-FFCC99?style=for-the-badge&logo=DBeaver)
 ![SQL](https://shields.fly.dev/badge/-SQL-FFCC99?style=for-the-badge&logo=SQL)
