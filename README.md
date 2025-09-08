@@ -4,12 +4,13 @@
 
 ### Languages and tools
 ![DevTools](https://shields.fly.dev/badge/-DevTools-00FFFF?style=for-the-badge&logo=DevTools&logoColor=8bb4dd)
-![Postman](https://shields.fly.dev/badge/-Postman-FFFFFF?style=for-the-badge&logo=Postman)
-![DBeaver](https://shields.fly.dev/badge/-DBeaver-FFC0CB?style=for-the-badge&logo=DBeaver)
-![SQL](https://shields.fly.dev/badge/-SQL-8bb4dd?style=for-the-badge&logo=SQL)
-![Swagger](https://shields.fly.dev/badge/-Swagger-FFFFFF?style=for-the-badge&logo=Swagger)
-![Git](https://shields.fly.dev/badge/-Git-ff3300?style=for-the-badge&logo=Git&logoColor=47C5FB)
-![Kafka](https://shields.fly.dev/badge/-Kafka-ffa500?style=for-the-badge&logo=ApacheKafka)
-![Figma](https://shields.fly.dev/badge/-Figma-000?style=for-the-badge&logo=Figma)
+![Postman](https://shields.fly.dev/badge/-Postman-FFCC99?style=for-the-badge&logo=Postman)
+![DBeaver](https://shields.fly.dev/badge/-DBeaver-0099FF?style=for-the-badge&logo=DBeaver)
+![SQL](https://shields.fly.dev/badge/-SQL-FF0000?style=for-the-badge&logo=SQL)
+![Swagger](https://shields.fly.dev/badge/-Swagger-FF6633?style=for-the-badge&logo=Swagger)
+![Git](https://shields.fly.dev/badge/-Git-66FF66?style=for-the-badge&logo=Git&logoColor=47C5FB)
+![Kafka](https://shields.fly.dev/badge/-Kafka-FF6633?style=for-the-badge&logo=ApacheKafka)
+![Figma](https://shields.fly.dev/badge/-Figma-9933FF?style=for-the-badge&logo=Figma)
 
-Follow me
+### Follow me
+[![Telegram](https://shields.fly.dev/badge/-Telegram-66FF66?style=for-the-badge&logo=Telegram)](https://t.me/AlyonaGolokhvast)
